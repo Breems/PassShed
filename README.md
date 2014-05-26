@@ -1,4 +1,0 @@
-PassShed
-========
-
-PassShed account manager.
